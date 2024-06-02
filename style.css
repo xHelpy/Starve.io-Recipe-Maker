@@ -127,7 +127,7 @@ h2 {
     height: 10%;
     float:left;
     width: 10%;
-    transform: translateX(-100px) translateY(60px);
+    transform: translateX(-10vh) translateY(6vh);
     padding-top: 30px;
     text-overflow: clip;
 }
@@ -136,7 +136,7 @@ h2 {
     font-weight: 800;
     height: 10%;
     width: 10%;
-    transform: translateX(250px) translateY(-84px);
+    transform: translateX(25vh) translateY(-8.7vh);
     padding-top: 30px;
     text-overflow: clip;
 }
@@ -244,7 +244,7 @@ h2 {
     background-color: rgba(0, 0, 0, 0.2);
     border: none;
     color: white;
-    transform: translateX(15px) translateY(-23px);
+    transform: translateX(1vh) translateY(-2.5vh);
     text-align: center;
     font-weight: 800;
 
@@ -280,10 +280,10 @@ h2 {
     width: 20%;
     color: white;
     font-weight: 800;
-    transform: translateY(-120px) translateX(410px);
+    transform: translateY(-12vh) translateX(42vh);
 }
 .craftTime {
-    transform: translateY(-125px) translateX(410px);
+    transform: translateY(-12vh) translateX(42vh);
     width: 15%;
     border: none;
     background-color: rgba(0, 0, 0, 0.2);
@@ -296,10 +296,10 @@ h2 {
     width: 20%;
     color: white;
     font-weight: 800;
-    transform: translateY(-120px) translateX(410px);
+    transform: translateY(-12vh) translateX(42vh);
 }
 .Bonus {
-    transform: translateY(-125px) translateX(410px);
+    transform: translateY(-12vh) translateX(42vh);
     width: 15%;
     border: none;
     background-color: rgba(0, 0, 0, 0.2);
